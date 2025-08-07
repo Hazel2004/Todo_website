@@ -1,4 +1,4 @@
-📝# **To-Do App (React)**
+📝**To-Do App (React)**
 
 A simple and responsive To-Do List web application built using React.js, allowing users to manage their daily tasks with ease. This project demonstrates key concepts in modern React development including hooks, state management, and local storage.
 
